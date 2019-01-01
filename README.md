@@ -1,6 +1,6 @@
-# pug
+# PUG
 *Process, Understand, Generate*
-PUG stands for several pillars of NLP: Natural Language **Processing**, Natural Language **Understanding**, and Natural Language **Generation**, or **PUG**
+PUG is an acronym which comes from several pillars of NLP: Natural Language **Processing**, Natural Language **Understanding**, and Natural Language **Generation**, or **PUG**
 
 This project was created because let's face it, there's a lot of redundancy in the world of hiring and employment. I am talking about:
 * All of the recruiters
