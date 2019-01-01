@@ -1,0 +1,7 @@
+.left-toolbar {
+  display: flex;
+  flex-direction: row;
+  background-color: #d6e2ea;
+  padding: 8px 6px;
+  flex: 1;
+}

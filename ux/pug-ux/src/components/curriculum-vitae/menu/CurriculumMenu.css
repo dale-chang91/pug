@@ -1,0 +1,5 @@
+.curriculum-menu {
+  display: flex;
+  flex-direction: column;
+  flex: 1;
+}

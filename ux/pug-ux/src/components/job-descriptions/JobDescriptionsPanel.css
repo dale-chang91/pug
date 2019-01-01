@@ -1,0 +1,5 @@
+.job-descriptions-panel {
+  display: flex;
+  flex-direction: row;
+  flex: 11;
+}
