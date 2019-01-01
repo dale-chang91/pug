@@ -1,4 +1,4 @@
-# pug-ux
+# pug
 *Process, Understand, Generate*
 PUG stands for several pillars of NLP: Natural Language **Processing**, Natural Language **Understanding**, and Natural Language **Generation**, or **PUG**
 
