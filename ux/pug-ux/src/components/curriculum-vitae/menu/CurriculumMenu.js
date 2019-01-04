@@ -2,6 +2,7 @@ import React, { Component } from 'react';
 import './CurriculumMenu.css';
 
 import SimpleWorkExperience from '../work-experience/simple/SimpleWorkExperience';
+import CurriculumVitaeForm from '../work-experience/form/CurriculumVitaeForm';
 
 class CurriculumMenu extends Component {
   render() {
@@ -19,6 +20,7 @@ class CurriculumMenu extends Component {
           startDate='April 2018'
           endDate='Present'
         />
+        <CurriculumVitaeForm />
       </div>
     );
   }

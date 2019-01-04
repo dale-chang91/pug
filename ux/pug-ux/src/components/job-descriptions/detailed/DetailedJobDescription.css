@@ -1,5 +1,5 @@
 .detailed-job-description {
   display: flex;
-  flex-direction: row;
+  flex-direction: column;
   flex: 11;
 }

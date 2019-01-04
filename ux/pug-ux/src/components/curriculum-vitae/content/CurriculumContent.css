@@ -1,0 +1,5 @@
+.curriculum-content {
+  display: flex;
+  flex: 11;
+  flex-direction: column;
+}
