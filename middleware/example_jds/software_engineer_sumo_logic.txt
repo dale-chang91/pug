@@ -1,0 +1,36 @@
+In June 2017, Sumo Logic announced another $75M funding round led by Sapphire Ventures, with participation from new and existing investors including DFJ Growth, Greylock Partners, Sequoia Capital, and others ( https://www.sumologic.com/press/2017-06-27/75-million-funding-round/). This brings our total funding to $235.5M to date. Sumo Logic's business has scaled significantly. We have also enjoyed consistent growth in our recurring revenue and customer count to over 1,600+ customers, reflecting every major vertical and company size.
+
+Who Are We?
+We are a secure, cloud-native, machine data analytics service, delivering real-time, continuous intelligence from structured, semistructured and unstructured data across the entire application lifecycle and stack. Our mission is to democratize analytics, making it accessible, simple and powerful for businesses of all sizes to build, run and secure their organizations. With Sumo Logic, customers can harness the power of machine data to gain operational business and customer insights that lead to competitive advantage and differentiated customer experience.
+
+What we do:
+Sumo Logic was founded in 2010 by experts in log management, scalable systems, big data, and security. We imagined a world of Yottabyte-scale machine data, where machine learning algorithms and advanced analytics could make sense of it all. Today, our purpose-built, cloud-native service analyzes more than 100 petabytes of data, more than 16 million searches, and delivers 10s of millions of insights daily – positioning Sumo among the most powerful machine data analytics services in the world. Our customers around the globe rely on Sumo Logic for the analytics and insights to build, run and secure their modern applications and cloud infrastructures. With Sumo Logic, customers gain a service-model advantage to accelerate their shift to continuous innovation, increasing competitive advantage, business value and growth.
+
+The proliferation of machine log data has the potential to give organizations unprecedented real-time visibility into their infrastructure and operations. With this opportunity comes tremendous technical challenges around ingesting, managing, and understanding high-volume streams of heterogeneous data.
+
+Distributed Systems Software Engineer:
+As our​ Distributed Systems Software Developer​, you will solve interesting low-latency, distributed systems challenges to handle our ever-increasing scale. You will build data processing solutions that are core to our platform.
+
+You will build the system that runs our elastic big data analytics platform written in Scala that runs in the AWS cloud. Our system is a highly distributed, fault tolerant, multi-tenant platform that includes bleeding edge components related to storage, messaging, search, and analytics. This system ingests and analyzes terabytes of data a day, while making petabytes of data available for search and forensic analysis, and is expected to reach substantially larger scale in the near future.
+
+You are a strong software engineer who is passionate about large-scale systems. You care about producing clean, elegant, maintainable, robust, well-tested code; you do this as a member of a team, helping the group come up with a better solution than you would as individuals. Ideally, you have experience with performance, scalability, and reliability issues of 24x7 commercial services.
+
+Requirements:
+
+    B.S. or higher in Computer Sciences or related discipline
+    3+ years of industry experience with a proven track record of ownership and delivery
+    Experience developed scalable low-latency, distributed data processing solutions
+    Experience in multi-threaded programming
+    Experience in running large scalable distributed services following micro service architecture
+    Hands-on object-oriented programming experience (e.g., Java, Scala)
+    Experience with AWS or other cloud services
+    Excellent verbal and written communication
+
+Desirable:
+
+    K8s experience
+    Experience with NoSQL databases
+    Demonstrated implementation of high-availability concepts
+    Developed logical and physical data models
+    Excellent troubleshooting skills
+

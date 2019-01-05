@@ -1,0 +1,56 @@
+The PaySimple engineering team is looking for great engineers to join us in building a SaaS platform that provides eCommerce, payments, and invoicing solutions for small businesses.
+
+You
+You love to build great products, and view software as just one of the tools in your toolbox. You also can put the customer’s hat on to see your product through their eyes. You have a bag of tricks for SaaS development, and you prefer to run your own code instead of throwing it over the wall. You have used relational databases and NoSQL (so do we), and are comfortable with both.
+
+Us
+PaySimple is an early-stage growth company building a top-flight engineering team. We are technology agnostic and believe in using the best tool for the job. We use Agile to both deliver quality code and to continually improve how we do things. We believe in working at a sustainable pace – you’ll typically code hard for 8 hours each day, but then you’re off work to relax, recharge, and refocus.
+
+Where
+PaySimple is located in Denver’s LoDo district. Our collaborative, open-plan office space is filled with high-energy, talented people who enjoy our weekly lunches, bubble hockey, and hanging out with their co-workers.
+
+What You'll Be Doing:
+
+    Work with a team of payment industry experts to design and develop sophisticated software for a state-of-the-art SaaS application
+    Write APIs to integrate our services with a diverse set of platforms and technologies (mobile apps, data providers, third-party applications)
+    Design and develop comprehensive automated unit and regression tests 
+
+Must haves:
+
+    5+ years of software development experience in a web-based environment
+    Excellent coding experience in C# or Java (we use C#)
+    Bachelor’s degree in Computer Science or related field
+    Working knowledge of HTTP and RESTful services, Service-Oriented Architecture, and AWS or similar public cloud platform
+    Ability to learn quickly
+    Comfortable working at a small dynamic company
+    Ability to translate business goals into own work assignments and succeed with little management direction
+    Use best practices to document and write quality software. Focus on testing is extremely important
+    Encourages and accepts personal feedback
+    Can use judgment to solve problems where protocol might not exist
+
+Nice to haves:
+
+    Background in eCommerce applications
+    Working knowledge of .NET and database development using SQL Server
+    Working knowledge of NoSQL data stores, such as MongoDB, CouchDB, HBase, Redis
+    Experience with Elasticsearch or Solr
+    Experience with data warehousing and business intelligence platforms
+    Familiarity with best practices for DevOps and SaaS deployment
+    Experience with techniques for unit test, such as mocks and fakes
+    Commitment to test-driven development, continuous integration, and test automation
+    Experience working in an Agile development environment
+    Desire to debate and explore new technologies
+
+Benefits and Perks:
+
+    Competitive salary
+    Robust medical benefits & 401k
+    Public Transportation reimbursement
+    Gym stipend
+    Start with 17 days of PTO and your birthday off
+    Snacks, lunches, and happy hours
+    Continued investment in your professional development 
+
+PaySimple is the leading provider of Service Commerce solutions for SMBs. Its SaaS platform provides payment acceptance, billing automation, client management, ecommerce, mobile, and point-of-sale solutions tailored to the needs of service-based businesses. We are building an extraordinary company and looking for talented, energetic, and motivated people to join our unique environment.
+
+Visit PaySimple.com/Rockstars to learn more about the PaySimple PATHS to extraordinary returns. If you are looking for a company that is truly focused on empowering small businesses with superior technology, come join a company that rewards authenticity and supports energy with a passion.

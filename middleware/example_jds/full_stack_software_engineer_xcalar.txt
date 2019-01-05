@@ -1,0 +1,49 @@
+Xcalar is pushing the limits of technology to help people discover deep meaningful insights from data, and our mission is to become the de facto standard for next generation Big Data Processing and Analytics Engines.
+
+Due to our continued growth, we are looking to hire a Full-Stack Software Engineer to join our team! You will be a critical role in our engineering team, building our front-end product that enables customers to discover deep insights from big data.
+
+Xcalar’s engineering team is responsible for developing a game changing product that will revolutionize how big data is parsed, processed, and visualized in the financial services industry, government institutions, and high-tech enterprises.
+
+Willing to consider entry-level candidates who have a BSCS from a top school and are interested in front-end engineering.
+
+*Principals only, no recruiters please*
+Duties
+
+    Architect and implement a scalable, modular, and fast UI, and participate in any or all phases of the development lifecycle from product definition and design through implementation
+    Work on UI design and product definition that leads, influences, and adds key value to the Xcalar product line
+    Design sound data models
+    Collaborate with UX design, microkernel and database engineering teams
+    Utilize rapid prototyping for design
+    Create clear and concise documentation for all the work performed including design documents, architecture documents, technical notes, internal application notes, bug fixes, etc.
+    Work with automation team and help with issue triage and resolution as needed during the product development process
+
+Required Qualifications
+
+    BS/MS in Computer Science
+    2-4 years of OOP coding (Java, C++), 2-4 years in imperative coding (Python, C) and 1-2 years in frontend programming (Javascript, jQuery, Angular / React / Vue), either from school or in industry
+    Strong familiarity with programming patterns, algorithms and data models
+    Attention to details and ability to handle priorities on tight deadlines without compromising quality
+    Full commitment to best software engineering practices and a passion for quality
+    Interested in working at a fast-paced, early-stage Tech startup
+
+Preferred
+
+    Familiarity with browser architecture and the mechanics of front-end code execution
+    Fluency in one or more of the following languages: Python, PHP, C++, or Java
+    Thorough knowledge of user centered design and iterative development processes
+    Ability to multitask, analyze opportunities, define successful approaches, and proactively solve problems
+    Exposure to big data technology
+
+Xcalar is an exciting, early-stage, Series A, well-funded, Big Data, software startup in hyper-growth mode.
+
+The Xcalar product suite comprises the following:
+
+    Xcalar Data Platform, a scale-out analytics platform for data engineers, data scientists, and business analysts
+    Xcalar Virtual Data Warehouse, a scale-out data warehouse for operational analytics
+
+
+Xcalar is an open and extensible analytics platform that delivers actionable insights with simplicity, speed, and scale. Its patented technologies provide a cloud-scale platform for the complete analytics pipeline including data preparation, data science, data warehousing, and ad-hoc analytics. Xcalar’s enterprise grade software scales to hundreds of nodes, thousands of users, and petabytes of data, for both cloud and on-premises deployments.
+
+Xcalar uniquely extends native relational algebra on a scale-out platform for modern data, giving enterprises the ability to intuitively discover insights using a variety of open programming languages, interactive model design, as well as traditional SQL. It provides visibility, access, and auditability with sophisticated data lineage through all stages of the analytics pipeline.
+
+Xcalar provides a comprehensive platform for analyzing and processing big data.

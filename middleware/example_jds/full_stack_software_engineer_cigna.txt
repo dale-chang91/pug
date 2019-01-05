@@ -1,0 +1,69 @@
+It's fun to work in a company where people truly BELIEVE in what they are doing!
+
+We're committed to bringing passion and customer focus to the business.
+
+Cigna, a leading Health Services company, is looking for exceptional data engineers/developers in our Data & Analytics organization. The Full-stack Engineer is responsible for the delivery of a business need end-to-end starting from understanding the requirements to deploying the software into production. This role requires you to be fluent in some of the critical technologies with proficiency in others and have a hunger to learn on the job and add value to the business. Critical attributes of being a full-stack engineer among others is Ownership & Accountability. In addition to Delivery, the full-stack engineer should have an automation first and continuous improvement mindset. He/She should drive the adoption of CI/CD tools and support the improvement of the tools sets/processes.
+
+Full stack engineers are able to articulate clear business objectives aligned to technical specifications and work in an iterative, agile pattern daily. They have ownership over their work tasks, and embrace interacting with all levels of the team and raise challenges when necessary. We aim to be cutting-edge engineers – not institutionalized developers.
+
+In this role, you will have the unique opportunity to interface with Cigna's Regulatory and Legal compliance teams, translating business requirements into executable format, automating and generating the required reports in a timely and quality fashion.
+
+This is a highly collaborative team in an Agile environment. This role requires you to be fluent in some of the critical technologies with proficiency in others and have a hunger to learn on the job and add value to the business, our Customers and our Clients. The position can be located in one of these U.S. based Cigna office locations: Denver, CO, Bloomfield, CT or New York City.
+
+Key Characteristics:
+
+    Write referenceable & modular code 
+
+    Design and architect the solution independently 
+
+    Be fluent in particular areas and have proficiency in many areas 
+
+    Have a passion to learn 
+
+    Take ownership and accountability 
+
+    Understands when to automate and when not to 
+
+    Have a desire to simplify 
+
+    Be entrepreneurial / business minded 
+
+    Have a quality mindset, not just code quality but also to ensure ongoing data quality by monitoring data to identify problems before they have business impact 
+
+    Take risks and champion new ideas 
+
+    Minimize "meetings" to get requirements and have direct business interactions 
+
+
+Qualifications:
+
+    2+ years as a member of Agile teams – Scrum or Kanban 
+
+    3+ years of working in an object-oriented language: C, C++, Java, Scala, or other OO compiled language 
+
+    3+ years in Web development frameworks like Angular or other Node.js based systems, 
+
+    2+ years of scripting (JavaScript, Python, R, Ruby, Perl, etc.) 
+
+    3+ years of database – SQL 
+
+    Experience with Git/SVN 
+
+    Experience with big data technologies a plus, such as Hadoop, Hive, Spark 
+
+    Experience with Docker containers and deployment 
+
+    Excellent troubleshooting skills 
+
+    Strong communication skills 
+
+    Fluent in BDD and TDD development methodologies 
+
+- Work in an agile CI/CD environment (Jenkins experience a plus)
+
+- Knowledge and/or experience with Health care information domains is a plus
+
+Qualified applicants will be considered for employment without regard to age, race, color, religion, national origin, sex, sexual orientation, gender identity, disability, veteran status.
+
+.
+If you require an accommodation based on your physical or mental disability please email: SeeYourself@cigna.com. Do not email SeeYourself@cigna.com for an update on your application or to provide your resume as you will not receive a response.
