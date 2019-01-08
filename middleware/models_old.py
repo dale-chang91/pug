@@ -1,11 +1,21 @@
-from mongoengine import Document
-from mongoengine.fields import (
-  DateTimeField,
-  EmbeddedDocumentField,
-  ListField,
-  ReferenceField,
-  StringField
-)
+
+
+class BaseQuerySet(QuerySet):
+  """
+  Base queryset with extras
+  """
+
+  def get_or_404(self, *args, **kwargs):
+    try:
+      return self.get(*args, **kwargs)
+    except (MultipleObjectsReturned, DoesNotExist, ValidationError):
+      abort(404)
+
+  def first_or_404(self):
+    obj = self.first()
+    if obj is None:
+      abort(404)
+    return obj
 
 class JobDescription(Document):
   company_name = StringField(required=True)
