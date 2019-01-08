@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 import './App.css';
 
 import { Route, HashRouter } from 'react-router-dom';
-import LeftToolbar from './components/common/lefttoolbar/LeftToolbar';
+import Navbar from './components/common/navbar/Navbar';
 
 import MainPanel from './components/common/main/MainPanel';
 import CurriculumVitaePanel from './components/curriculum-vitae/CurriculumVitaePanel';
@@ -13,7 +13,7 @@ class App extends Component {
     return (
       <HashRouter>
         <div className="App">
-          <LeftToolbar />
+          <Navbar />
           <div className="content">
             <Route exact path="/" component={MainPanel} />
             <Route path="/curriculum-vitae" component={CurriculumVitaePanel} />

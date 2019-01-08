@@ -1,0 +1,14 @@
+.simple-job-description {
+  position: relative;
+  -moz-box-shadow: 1px 2px 4px rgba(0, 0, 0,0.5);
+  -webkit-box-shadow: 1px 2px 4px rgba(0, 0, 0, .5);
+}
+
+.simple-job-description p {
+  margin: 1px;
+  font-size: small;
+}
+
+.simple-job-description f4 {
+  margin: 2px;
+}

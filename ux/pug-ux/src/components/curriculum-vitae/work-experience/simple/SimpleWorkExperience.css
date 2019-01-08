@@ -1,0 +1,13 @@
+.simple-work-experience {
+  position: relative;
+  -moz-box-shadow: 1px 2px 4px rgba(0, 0, 0,0.5);
+  -webkit-box-shadow: 1px 2px 4px rgba(0, 0, 0, .5);
+}
+
+.simple-work-experience h4 {
+  margin: 2px;
+}
+
+.simple-work-experience p {
+  margin: 1px;
+}

@@ -47,7 +47,6 @@ class CurriculumVitaeForm extends Component {
   handleSubmit(event) {
     event.preventDefault();
     console.log('Submitted Data');
-    closeModal();
   }
 
   render() {
