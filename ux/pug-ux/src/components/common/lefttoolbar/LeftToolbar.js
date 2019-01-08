@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import './LeftToolbar.css';
-import LeftToolbarItem from './LeftToolbarItem';
+import LeftToolbarItem from './item/LeftToolbarItem';
 
 import { NavLink } from 'react-router-dom';
 
@@ -8,7 +8,9 @@ class LeftToolbar extends Component {
   render() {
     return (
       <div className='left-toolbar'>
-        <NavLink exact to='/'>Home</NavLink>
+        <NavLink exact to='/'>
+          <LeftToolbarItem name='Home' imageSource=''/>
+        </NavLink>
         <NavLink to='/curriculum-vitae'>
           <LeftToolbarItem name='Curriculum Vitae' imageSource=''/>
         </NavLink>
