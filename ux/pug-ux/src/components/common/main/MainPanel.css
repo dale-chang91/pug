@@ -1,5 +1,21 @@
 .main-panel {
   display: flex;
+  flex-direction: row;
+}
+
+.spacer {
+  display: flex;
+  flex: 2;
+  background-color: #B9B8B5;
+}
+
+.main-content {
+  display: flex;
   flex-direction: column;
-  flex: 10;
+  flex: 8;
+}
+
+.content {
+  display: flex;
+  flex-direction: column;
 }

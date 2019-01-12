@@ -1,26 +1,33 @@
 import React, { Component } from 'react';
 import './App.css';
 
-import { Route, HashRouter } from 'react-router-dom';
+import { Route, BrowserRouter, Switch } from 'react-router-dom';
 import Navbar from './components/common/navbar/Navbar';
 
 import MainPanel from './components/common/main/MainPanel';
-import CurriculumVitaePanel from './components/curriculum-vitae/CurriculumVitaePanel';
-import JobDescriptionsPanel from './components/job-descriptions/JobDescriptionsPanel';
+import WorkHomePanel from './components/work/WorkHomePanel';
+import WorkContainer from './components/work/WorkContainer';
+import FunContainer from './components/fun/FunContainer';
+
+import NotFound from './components/common/not-found/NotFound';
 
 class App extends Component {
   render() {
     return (
-      <HashRouter>
+      <BrowserRouter>
         <div className="App">
           <Navbar />
-          <div className="content">
+          <Switch>
             <Route exact path="/" component={MainPanel} />
-            <Route path="/curriculum-vitae" component={CurriculumVitaePanel} />
-            <Route path="/job-descriptions" component={JobDescriptionsPanel} />
+            <Route path="/work" component={WorkHomePanel} />
+            <Route path="/fun" component={FunContainer} />
+            <Route component={NotFound} />
+          </Switch>
+          <div className="content">
+
           </div>
         </div>
-      </HashRouter>
+      </BrowserRouter>
     );
   }
 }
